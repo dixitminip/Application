@@ -1,1 +1,2 @@
-# Application Developer B update
+Application Developer B update
+Application Adding developerA story
